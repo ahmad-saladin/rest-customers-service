@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.jumia</groupId>
     <artifactId>rest-customers-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>rest-customers-service</name>
     <description>rest-customers-service</description>
     <properties>
